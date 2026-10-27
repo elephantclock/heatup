@@ -1,0 +1,11 @@
+# compiled binaries — build them on your own Mac
+/cpuburn
+/gpuburn
+/temps
+/fans
+
+# per-run output
+/run-*.csv
+/.gpuburn.out
+
+.DS_Store
